@@ -1,5 +1,5 @@
 import Layout from "./components/Layout";
-import "./app.css";
+import "./App.css";
 import { useEffect } from "react";
 
 function App() {
